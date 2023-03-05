@@ -6,3 +6,6 @@
     On Step 2 Setup ❯ Create Database & User ❯ Enter Database Connection Info ❯ Click Validate ❯ Click Next
  Additional Tips... On Step 3 ❯ Click Next ❯ Step 4 ❯ Login 
  4. Login credentials login: admin  password:admin
+
+
+Created by Vaidas Šipelis
